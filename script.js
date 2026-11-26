@@ -71,7 +71,42 @@ const defaultSongs = [
     platform: "ARIZ MUSIC",
     url: "arizu/music/Love for you funk .mp3",
     cover: "arizu/music/lv_0_20260715195056.jpg"
-  }
+  },
+  {
+    type: "audio",
+    name: "Ayesha-erotica-Heidi-montag-I-ll-do-it-sped-up-nightcore-pitched ",
+    platform: "ARIZ MUSIC",
+    url: "arizu/music/Ayesha-erotica-Heidi-montag-I-ll-do-it-sped-up-nightcore-pitched_009_vbr.mp3",
+    cover: "arizu/music/TikVid.App_7690811452026047762_1.jpeg"
+  },
+  {
+    type: "audio",
+    name: "fifty-fifty-cupid-twin-ver-sped-up ",
+    platform: "ARIZ MUSIC",
+    url: "arizu/music/fifty-fifty-cupid-twin-ver-sped-up_009_vbr.mp3",
+    cover: "arizu/music/TikVid.App_7688577554004905224_1.jpeg"
+  },
+  {
+    type: "audio",
+    name: "Meme-funk-fusion ",
+    platform: "ARIZ MUSIC",
+    url: "arizu/music/Meme-funk-fusion_006_vbr.mp3",
+    cover: "arizu/music/TikVid.App_7679338001675144456_2.jpeg"
+  },
+  {
+    type: "audio",
+    name: "MONTAGEM-LUNAR-CELESTIA-1-0-TOKYOPHILE-TIKTOK-VERSION ",
+    platform: "ARIZ MUSIC",
+    url: "arizu/music/MONTAGEM-LUNAR-CELESTIA-1-0-TOKYOPHILE-TIKTOK-VERSION_010_vbr (1).mp3",
+    cover: "arizu/music/TikVid.App_7684904313155636488_5.jpeg"
+  },
+  {
+    type: "audio",
+    name: "MONTAGEM-HIKARI ",
+    platform: "ARIZ MUSIC",
+    url: "arizu/music/MONTAGEM-HIKARI_009_vbr.mp3",
+    cover: "arizu/music/ringoon79 _ りんごーん🍎 1111 .jpg"
+  },
 ];
 
 // DANH SÁCH PHÁT CỦA NGƯỜI DÙNG
